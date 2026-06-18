@@ -45,9 +45,9 @@
 # print(f"{num_1} * {num_2} = {num_1 * num_2}")
 # print(f"{num_1} / {num_2} = {num_1 / num_2}")
 
-number = int(input("Please enter a number: "))
-if number % 3 == 0:
-    print(f"{number} is divisible by 3.")
-else:
-    print(f"{number} is not divisible by 3.")
+# number = int(input("Please enter a number: "))
+# if number % 3 == 0:
+#     print(f"{number} is divisible by 3.")
+# else:
+#     print(f"{number} is not divisible by 3.")
     
