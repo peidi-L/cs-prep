@@ -35,3 +35,13 @@
 # age = current_year - birth_year
 
 # print(f"You are about {age} years old.")
+
+
+num_1 = int(input("Please enter a number: "))
+num_2 = int(input("Please enter another number: "))
+
+print(f"{num_1} + {num_2} = {num_1 + num_2}")
+print(f"{num_1} - {num_2} = {num_1 - num_2}")
+print(f"{num_1} * {num_2} = {num_1 * num_2}")
+print(f"{num_1} / {num_2} = {num_1 / num_2}")
+
