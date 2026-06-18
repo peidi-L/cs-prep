@@ -27,11 +27,11 @@
 # else:
 #     print(f"{number} is zero.")
 
-from datetime import datetime
+# from datetime import datetime
 
-current_year = datetime.now().year
-birth_year = int(input("What year were you born? "))
+# current_year = datetime.now().year
+# birth_year = int(input("What year were you born? "))
 
-age = current_year - birth_year
+# age = current_year - birth_year
 
-print(f"You are about {age} years old.")
+# print(f"You are about {age} years old.")
