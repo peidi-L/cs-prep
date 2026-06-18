@@ -37,11 +37,17 @@
 # print(f"You are about {age} years old.")
 
 
-num_1 = int(input("Please enter a number: "))
-num_2 = int(input("Please enter another number: "))
+# num_1 = int(input("Please enter a number: "))
+# num_2 = int(input("Please enter another number: "))
 
-print(f"{num_1} + {num_2} = {num_1 + num_2}")
-print(f"{num_1} - {num_2} = {num_1 - num_2}")
-print(f"{num_1} * {num_2} = {num_1 * num_2}")
-print(f"{num_1} / {num_2} = {num_1 / num_2}")
+# print(f"{num_1} + {num_2} = {num_1 + num_2}")
+# print(f"{num_1} - {num_2} = {num_1 - num_2}")
+# print(f"{num_1} * {num_2} = {num_1 * num_2}")
+# print(f"{num_1} / {num_2} = {num_1 / num_2}")
 
+number = int(input("Please enter a number: "))
+if number % 3 == 0:
+    print(f"{number} is divisible by 3.")
+else:
+    print(f"{number} is not divisible by 3.")
+    
