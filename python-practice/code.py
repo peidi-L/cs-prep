@@ -63,15 +63,25 @@
 # else:
 #     print("Access denied.")
 
-num1 = int(input("Please enter your first number: "))
-num2 = int(input("Please enter your second number: "))
-num3 = int(input("Please enter your third number: "))
+# num1 = int(input("Please enter your first number: "))
+# num2 = int(input("Please enter your second number: "))
+# num3 = int(input("Please enter your third number: "))
 
-if num1 >= num2 and num1 >= num3:
-    largest = num1
-elif num2 >= num1 and num2 >= num3:
-    largest = num2
+# if num1 >= num2 and num1 >= num3:
+#     largest = num1
+# elif num2 >= num1 and num2 >= num3:
+#     largest = num2
+# else:
+#     largest = num3  
+
+# print(f"The largest number is: {largest}")
+
+number = int(input("Please enter a number: "))
+if number > 0 and number % 2 == 0:
+    print(f"{number} is positive and even.")
+elif number > 0 and number % 2 != 0:
+    print(f"{number} is positive and odd.")
+elif number < 0:
+    print(f"{number} is negative.")
 else:
-    largest = num3  
-
-print(f"The largest number is: {largest}")
+    print(f"{number} is zero.")
