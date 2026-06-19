@@ -76,12 +76,12 @@
 
 # print(f"The largest number is: {largest}")
 
-number = int(input("Please enter a number: "))
-if number > 0 and number % 2 == 0:
-    print(f"{number} is positive and even.")
-elif number > 0 and number % 2 != 0:
-    print(f"{number} is positive and odd.")
-elif number < 0:
-    print(f"{number} is negative.")
-else:
-    print(f"{number} is zero.")
+# number = int(input("Please enter a number: "))
+# if number > 0 and number % 2 == 0:
+#     print(f"{number} is positive and even.")
+# elif number > 0 and number % 2 != 0:
+#     print(f"{number} is positive and odd.")
+# elif number < 0:
+#     print(f"{number} is negative.")
+# else:
+#     print(f"{number} is zero.")
