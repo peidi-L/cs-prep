@@ -57,8 +57,8 @@
 # else:
 #     print(f"{number} is not divisible by both 3 and 5.")
 
-trial = input("Please enter a password: ")
-if trial == "python123":
-    print("Access granted.")
-else:
-    print("Access denied.")
+# trial = input("Please enter a password: ")
+# if trial == "python123":
+#     print("Access granted.")
+# else:
+#     print("Access denied.")
