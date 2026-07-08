@@ -16,6 +16,18 @@ def fizz_buzz(limit: int) -> list[str]:
         elif number % 5 == 0:
             result.append("Buzz")
         else:
+            print(i)
+
+def main():
+    if len(sys.argv) != 2:
+        print("Usage: python3 python-practice/fizz_buzz.py LIMIT")
+        return
+
+    limit = int(sys.argv[1])
+    fizz_buzz(limit)
+
+
+if __name__ == '__main__':
             result.append(str(number))
 
     return result
