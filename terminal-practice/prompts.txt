@@ -1,0 +1,12 @@
+Enter your first number: 
+Enter your second number: 
+Please enter a number: 
+Please enter a number: 
+Please enter a number: 
+Please enter another number: 
+Please enter a number: 
+Please enter a number: 
+Please enter your first number: 
+Please enter your second number: 
+Please enter your third number: 
+Please enter a number: 
