@@ -1,8 +1,0 @@
-   1 Enter your first number: 
-   1 Enter your second number: 
-   6 Please enter a number: 
-   1 Please enter another number: 
-   1 Please enter your first number: 
-   1 Please enter your second number: 
-   1 Please enter your third number: 
-done
