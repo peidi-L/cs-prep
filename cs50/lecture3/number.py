@@ -12,4 +12,3 @@ def get_int():
             pass
 
 main()
-
