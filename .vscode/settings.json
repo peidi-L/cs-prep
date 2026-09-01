@@ -6,5 +6,6 @@
       "path": "/Users/peidi/Desktop/.local-jdks/jdk-21.0.12+8/Contents/Home",
       "default": true
     }
-  ]
+  ],
+  "python-envs.defaultEnvManager": "ms-python.python:system"
 }
